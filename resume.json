@@ -8,7 +8,7 @@
     "aboutme": "个人评价"
   },
   "avatar": {
-    "src": "https://avatars.githubusercontent.com/u/23442934?s=48&v=4",
+    "src": "https://avatars.githubusercontent.com/u/23442934?v=4",
     "hidden": false
   },
   "profile": {
@@ -33,7 +33,24 @@
       "work_desc": "参与或独立完成数十个项目的开发工作，开发各类表单页面、管理页面、图表设计与展示。"
     }
   ],
-  "skillList": ["TypeScript", "Angular", "ECharts", "React"],
+  "skillList": [
+    {
+      "skill_name": "TypeScript",
+      "skill_level": 100
+    },
+    {
+      "skill_name": "Angular",
+      "skill_level": 100
+    },
+    {
+      "skill_name": "Echarts",
+      "skill_level": 100
+    },
+    {
+      "skill_name": "React",
+      "skill_level": 60
+    }
+  ],
   "projectList": [
     {
       "project_name": "ELN数据管理系统",
@@ -53,15 +70,12 @@
       "project_name": "前端监控埋点",
       "project_role": "",
       "project_time": "2022",
-      "project_desc": "前端监控在本地保存错误信息，使得bug定位、修改都更加及时，即使是一些还未发现的bug也能被捕捉到。也添加了性能埋点测试功能，方便对于一些性能需求较大的页面进行测试与监控。",
-      "project_content": ""
+      "project_desc": "由于主要是to B的项目，并没有太大规模被使用，通常只在开发阶段部署。",
+      "project_content": "前端监控在本地保存错误信息，使得bug定位、修改都更加及时，为客户沟通提供具体信息，即使是一些还未发现的bug也能被捕捉到。也添加了性能埋点测试功能，方便对于一些性能需求较大的页面进行测试与监控。"
     }
   ],
   "aboutme": {
     "aboutme_desc": "代码能力强，思路快，喜欢新鲜一些的技术和知识。平时会刷刷掘金拓展技术面和知识深度，工作上主要使用Angular + Antd Zorro，对于React和Vue现在没有那么熟悉了，不过也在关注各个版本的更新和新技术的使用。希望能接触一些SSR、微前端等新技术。"
   },
-  "theme": {
-    "color": "#2f5785",
-    "tagColor": "#8bc34a"
-  }
+  "theme": { "color": "#2f5785", "tagColor": "#8bc34a" }
 }
