@@ -1,0 +1,67 @@
+{
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "工作经历",
+    "projectList": "项目经验",
+    "skillList": "个人技能",
+    "workList": "个人作品",
+    "aboutme": "个人评价"
+  },
+  "avatar": {
+    "src": "https://avatars.githubusercontent.com/u/23442934?s=48&v=4",
+    "hidden": false
+  },
+  "profile": {
+    "name": "卢泓宇",
+    "email": "luhongyu.hi@qq.com",
+    "mobile": "15181877632",
+    "workExpYear": "4年"
+  },
+  "educationList": [
+    {
+      "edu_time": ["2016", "2020"],
+      "school": "成都东软学院",
+      "major": "计科系",
+      "academic_degree": "本科"
+    }
+  ],
+  "workExpList": [
+    {
+      "company_name": "成都材智科技",
+      "department_name": "前端开发",
+      "work_time": ["2021.03", null],
+      "work_desc": "参与或独立完成数十个项目的开发工作，开发各类表单页面、管理页面、图表设计与展示。"
+    }
+  ],
+  "skillList": ["TypeScript", "Angular", "ECharts", "React"],
+  "projectList": [
+    {
+      "project_name": "ELN数据管理系统",
+      "project_role": "",
+      "project_time": "2021 - 至今",
+      "project_desc": "建立表单系统，通过低代码表单使得用户和实施人员可以配置表单，编辑和发布各类数据，加上配套的国际化、数据权限管理、导入导出、数据统计、图表分析功能来展示系统中的数据。",
+      "project_content": "从一开始的开发到维护到不同客户需求的二次开发都有深度参与。"
+    },
+    {
+      "project_name": "科研辅助平台",
+      "project_role": "",
+      "project_time": "2023 - 至今",
+      "project_desc": "基于ELN表单系统的二次开发，将表单设计系统独立为一个模块方便其余的项目使用，定制化的开发BPMN流程图和项目管理，在项目分析上做了优化和重新设计。",
+      "project_content": "项目分析上开发了数据筛选、表格聚合展示，及图表自定义配置、数据分组、绘制Echarts图表，将配置结构化保存和复现等功能，通过组件复用、模块化加载等方式进行代码优化。"
+    },
+    {
+      "project_name": "前端监控埋点",
+      "project_role": "",
+      "project_time": "2022",
+      "project_desc": "前端监控在本地保存错误信息，使得bug定位、修改都更加及时，即使是一些还未发现的bug也能被捕捉到。也添加了性能埋点测试功能，方便对于一些性能需求较大的页面进行测试与监控。",
+      "project_content": ""
+    }
+  ],
+  "aboutme": {
+    "aboutme_desc": "代码能力强，思路快，喜欢新鲜一些的技术和知识。平时会刷刷掘金拓展技术面和知识深度，工作上主要使用Angular + Antd Zorro，对于React和Vue现在没有那么熟悉了，不过也在关注各个版本的更新和新技术的使用。希望能接触一些SSR、微前端等新技术。"
+  },
+  "theme": {
+    "color": "#2f5785",
+    "tagColor": "#8bc34a"
+  }
+}
