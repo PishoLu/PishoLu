@@ -79,7 +79,7 @@
     }
   ],
   "aboutme": {
-    "aboutme_desc": "代码能力强，思路快，喜欢新鲜一些的技术和知识。平时会刷刷掘金拓展技术面和知识深度。\n精通Angular框架，熟练掌握React全家桶和Vue全家桶，有Angular和React实际项目经验。\n工作效率高，从来没有任务延期过，对于测试和客户提出的bug也能快速定位并修改。\n精通JS、TS、Echarts，有Web、大屏的经验，有良好的编码习惯和代码规范。\n熟悉docker、git ci等自动化部署相关流程。\n希望能接触一些 SSR 、微前端等新技术。 SSR、微前端等新技术的项目。"
+    "aboutme_desc": "代码能力强，思路快，喜欢新鲜一些的技术和知识。平时会刷刷掘金拓展技术面和知识深度。\n精通 Angular 框架，熟练掌握 React 全家桶和 Vue 全家桶，有 Angular 和 React 实际项目经验。\n工作效率高，从来没有任务延期过，对于测试和客户提出的 bug 也能快速定位并修改。\n精通 JS、TS、Echarts，有 Web、大屏的经验，有良好的编码习惯和代码规范。\n熟悉 docker、git ci 等自动化部署相关流程。\n希望能接触一些 SSR、微前端等新技术的项目。"
   },
   "theme": { "color": "#2f5785", "tagColor": "#8bc34a" }
 }
