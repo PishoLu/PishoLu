@@ -1,7 +1,5 @@
-### Hi there 👋 This is Pisho，Front-end Engineer
-
 > 永远相信，美好的事即将发生。
 
-- ⚡ JavaScript / Vue / React / Angular / Python
+- ⚡ TypeScript / Angular / React
 
-<!-- [![My Github](https://github-readme-stats.vercel.app/api?username=PishoLu&show_icons=true)]() -->
+欢迎找我玩彩六 [Steam](https://steamcommunity.com/profiles/76561198212983353/)
